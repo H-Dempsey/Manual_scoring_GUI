@@ -2,11 +2,11 @@ name: Manual_scoring_GUI
 channels:
   - defaults
 dependencies:
-  - python=3.7
+  - python=3.8
   - pip
   - pip:
     - PySimpleGUI
     - numpy
     - pandas
-    - cv2
+    - opencv-python
     - openpyxl
