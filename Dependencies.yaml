@@ -1,0 +1,12 @@
+name: Manual_scoring_GUI
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - pip
+  - pip:
+    - PySimpleGUI
+    - numpy
+    - pandas
+    - cv2
+    - openpyxl
