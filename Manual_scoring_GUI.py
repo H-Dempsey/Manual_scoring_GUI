@@ -188,11 +188,11 @@ def set_frame(x):
 def setSpeed(val):
     global playSpeed
     playSpeed = max(val,1)
-playSpeed = 1000
+playSpeed = 10
 cv.namedWindow(window)
 trackbar = 'Time'
 cv.createTrackbar(trackbar, window, 0, frame_count, set_frame)
-cv.createTrackbar('Speed', window, playSpeed, 1000, setSpeed)
+cv.createTrackbar('Speed', window, playSpeed, 100, setSpeed)
 
 while cap.isOpened():
     
@@ -378,7 +378,7 @@ if num_frames > 0:
     df = pd.DataFrame()
     df['Time (frames)'] = range(frame_count)
     df['Time (secs)']   = df['Time (frames)'] * fps
-    df['Time (ms)']     = df['Time (frames)'] * 1000
+    df['Time (ms)']     = df['Time (frames)'] * fps * 1000
     def binary_timestamps(time, frames):
         if time in frames:
             return(1)
