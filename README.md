@@ -1,6 +1,6 @@
 # Manual Scoring GUI 🐁
 
-![image](https://user-images.githubusercontent.com/101311642/209243683-23b2eab5-6633-4844-a416-a70d699a9795.png)
+![image](https://user-images.githubusercontent.com/101311642/209243837-d2fa2981-db3b-400a-9371-1417b7934666.png)
 
 ### Installation
 
