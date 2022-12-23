@@ -1,5 +1,7 @@
 # Manual Scoring GUI 🐁
 
+To generate the output data, ensure that you click on the "X" button in the top right of the video window, and not the terminal window.
+
 ![image](https://user-images.githubusercontent.com/101311642/209243837-d2fa2981-db3b-400a-9371-1417b7934666.png)
 
 ### Installation
