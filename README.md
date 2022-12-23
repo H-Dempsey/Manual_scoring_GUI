@@ -3,7 +3,7 @@
 In the video window, the units of time are frames and the speed uses arbitrary units.
 To generate the output data, ensure that you click on the "X" button in the top right of the video window, and not the terminal window.
 
-![image](https://user-images.githubusercontent.com/101311642/209243837-d2fa2981-db3b-400a-9371-1417b7934666.png)
+![image](https://user-images.githubusercontent.com/101311642/209245609-7edf5ee1-1ba2-4e52-b23f-ebe55fb55a91.png)
 
 ### Installation
 
