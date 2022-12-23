@@ -1,6 +1,7 @@
 # Manual Scoring GUI 🐁
 
-In the video window, the units of time are frames and the speed uses arbitrary units.
+At the moment this only works on Windows, I will update this when it works on Mac. <br>
+In the video window, the units of time are frames and the speed uses arbitrary units. <br>
 To generate the output data, ensure that you click on the "X" button in the top right of the video window, and not the terminal window.
 
 ![image](https://user-images.githubusercontent.com/101311642/209245609-7edf5ee1-1ba2-4e52-b23f-ebe55fb55a91.png)
