@@ -1,8 +1,10 @@
 name: Manual_scoring_GUI
 channels:
+  - conda-forge
   - defaults
 dependencies:
   - python=3.8
+  - PySimpleGUI
   - pip
   - pip:
     - PySimpleGUI
@@ -11,3 +13,4 @@ dependencies:
     - opencv-python
     - openpyxl
     - tabulate
+
